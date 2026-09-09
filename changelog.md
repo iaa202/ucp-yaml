@@ -1,3 +1,9 @@
+# 2026-09-09
+## UPDATED
+### Links
+- Overrode stable Links spec with latest reviewed content from Links-2021-03-22.v1-update.yaml.
+- Reason: stable file had not been updated since 2025-08-22 and update file contained the consolidated latest changes.
+
 # 2026-08-07
 ## UPDATED
 ### Transactions
